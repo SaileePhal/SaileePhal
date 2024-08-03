@@ -1,4 +1,27 @@
-## Hi there 👋 , I'm Sailee
+# Hi there 👋 , I'm Sailee
+
+Welcome to my GitHub profile! I'm a passionate computer engineer currently pursuing my Bachelor of Engineering. I love to explore and create new things in the tech world.
+
+## 🚀 About Me
+
+- 🎓 **Education:** Currently in the 4th year of Computer Engineering at Padre Conceicao College Of Engineering, Verna, Goa
+- 💼 **Current Role:** Developer at CopperCodes Consulting LLP
+- 🌟 **Interests:** Coding, Innovation, Development, AI/ML
+
+## 🛠️ Skills
+
+- **Languages:** C, C++, Python, Java, HTML, CSS, JavaScript
+- **Frameworks:** React, Next.js, Node.js
+- **Tools:** MongoDB, Supabase, PHP
+- **AI/ML:** AI/ML, GenAI fundamentals
+
+## 🌍 Languages
+
+- **Spoken Languages:** English, Hindi, Konkani, Marathi
+
+## 📊 Contributions
+
+![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SaileePhal&theme=radical)
 
 <!--
 **SaileePhal/SaileePhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
