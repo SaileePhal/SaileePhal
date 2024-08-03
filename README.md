@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Sailee
+# Hi there 👋 , I'm Sailee Phal
 
 Welcome to my GitHub profile! I'm a passionate computer engineer currently pursuing my Bachelor of Engineering. I love to explore and create new things in the tech world.
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate computer engineer currently pursu
 
 ## 📊 Contributions
 
-![Your GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=SaileePhal&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaileePhal&theme=dark&border_radius=4.6)   
 
 <!--
 **SaileePhal/SaileePhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📊 Contributions Heatmap
+
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=SaileePhal&theme=solarized-light&bg_color=000000&color=00ff00)
+
 -->
  
 ## GSSOC(24) Badges 🪶
