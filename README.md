@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate computer engineer currently pursu
 ## 🚀 About Me
 
 - 🎓 **Education:** Currently in the 4th year of Computer Engineering at Padre Conceicao College Of Engineering, Verna, Goa
-- 💼 **Current Role:** Developer at CopperCodes Consulting LLP
+- 💼 **Experience:** Developer at CopperCodes Consulting LLP
 - 🌟 **Interests:** Coding, Innovation, Development, AI/ML
 
 ## 🛠️ Skills
